@@ -1,3 +1,10 @@
+## Dear_Ella_
+Amharic practice bae##_iM_iN
+
+<iframe width="100%" height="502" src="https://www.youtube.com/embed/df6FJGEwqqA" title="ድብብቆሽ ሙሉ ፊልም New Ethiopian full movie 2022 | የሲኒማ ፊልም | የአስቴር በዳኔ ፊልም | Haleta tv" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[ልክ እንዳንቺ - Ethiopian Movie Lik Endanchi 2020 Full Length Ethiopian Film Lik Enedanchi 2020](https://www.youtube.com/watch?v=P4w_9o3RbL0)
+
 ---
 layout: default
 ---
