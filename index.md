@@ -1,3 +1,20 @@
+ {% highlight ruby %}
+1 # HOLE_TO_ANOTHER_UNiVERSE##############################
+2 # TO####################################################
+3 # ANOTHER###############################################
+4 # UNiVERSE##################################KA$HBRAT#####
+{% endhighlight %}
+
+## Hole To Another Universe
+One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
+
+
+# AUDiO_PUSH::REPPiN
+## Local_Artist::SMOOTH_ASSiMiLATiON
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/201663723&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 20px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; "><a href="https://soundcloud.com/audiopush" title="Audio Push" target="_blank" style="color: #cccccc; text-decoration: none;">Audio Push</a> · <a href="https://soundcloud.com/audiopush/03-03-reppin-1" title="Reppin" target="_blank" style="color: #cccccc; text-decoration: none;">Reppin</a></div>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2NPxL1QqPrD1a7OLHjVcAP?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/36yAmew00sW9M57w8q7AJS?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <IMG src="https://i.discogs.com/6HyzLWy2HLY5YFm4B3HWWQ1runNVAYAaQTZuvZMfuuY/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTE4/MDk4LTE1MTc3NTc0/ODEtMzc3My5qcGVn.jpeg" alt="CRIMINAL_MINDED_HOT_CLUB_NON_VIOLENT_VERSION">
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/3AJ15ysr4Hz5p0N2tnNb1F?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
