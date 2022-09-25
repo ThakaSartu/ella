@@ -8,6 +8,11 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 
+<hr>
+
+<IMG src="https://i.discogs.com/fClPFWWeT6wrDNEtqPuVk4BqVZQUbzUWI0M2yBCsRxg/rs:fit/g:sm/q:90/h:389/w:583/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNTkw/OTkwLTE1MDA1MjE4/NjAtNzc4My5wbmc.jpeg" aly="is flava tha motive ella?##yes">
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/3VFt9RBUpcO0oM5v7sA4BP?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 # AUDiO_PUSH::REPPiN
 ## Local_Artist::SMOOTH_ASSiMiLATiON
