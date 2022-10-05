@@ -8,6 +8,12 @@
 ## Hole To Another Universe
 One day my blog will `RETURN true` when run from the [command](https://youtu.be/EDuvO_Qpk2s) line!
 
+# Dear_Ella,
+I like Skyzoo musically. He a friend as well. I want to make music with you someday. Please hear him and you can get some clues about my musicality and how I can work with you on a track. Im lazy to write, but If you give me a simple subject I can kick some elaborate shit with you. Simple is clear. Here is a playlist
+
+![SKYZOO_HAREM_OUR_HAREM_ELLA](https://townsquare.media/site/812/files/2016/10/skyzoo-apollo-brown.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1EIY0xmrOKkRjC?utm_source=generator" width="100%" height="300" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <hr>
 <iframe width="100%" height="400" src="https://www.mixcloud.com/widget/iframe/?light=1&feed=%2Ffootlongdevelopment%2Fdj-rhettmatics-the-wedding-mixer-vol-25-side-a%2F" frameborder="0" ></iframe>
